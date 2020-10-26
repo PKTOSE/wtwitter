@@ -25,7 +25,7 @@ function App() {
       ) : (
         "Initializing..."
       )}
-      <footer>&copy;{new Date().getUTCFullYear()} wtw1tt1er</footer>
+      <footer>&copy;{new Date().getUTCFullYear()} Progresso</footer>
     </>
   );
 }
